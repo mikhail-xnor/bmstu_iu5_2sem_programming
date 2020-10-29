@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\MY_PROJECTS\VisualStudio\My_Vector\My_Vector\my_vector.h(36,9): error C3861: exception: идентификатор не найден
+D:\MY_PROJECTS\VisualStudio\My_Vector\My_Vector\my_vector.h(36,18): message : "exception": объявление функции должно быть доступно, так как ни один из аргументов не зависит от параметра шаблона
+  methods_class_bunch.cpp
+D:\MY_PROJECTS\VisualStudio\My_Vector\My_Vector\my_vector.h(36,9): error C3861: exception: идентификатор не найден
+D:\MY_PROJECTS\VisualStudio\My_Vector\My_Vector\my_vector.h(36,18): message : "exception": объявление функции должно быть доступно, так как ни один из аргументов не зависит от параметра шаблона
+D:\MY_PROJECTS\VisualStudio\My_Vector\My_Vector\my_vector.h(84,14): error C2039: "exception": не является членом "std".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\cstdlib(35): message : см. объявление "std"
+D:\MY_PROJECTS\VisualStudio\My_Vector\My_Vector\my_vector.h(94,14): error C2039: "exception": не является членом "std".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\cstdlib(35): message : см. объявление "std"
+D:\MY_PROJECTS\VisualStudio\My_Vector\My_Vector\my_vector.h(96,14): error C2039: "exception": не является членом "std".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\cstdlib(35): message : см. объявление "std"
+D:\MY_PROJECTS\VisualStudio\My_Vector\My_Vector\my_vector.h(114,55): error C2039: "exception": не является членом "std".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\cstdlib(35): message : см. объявление "std"
+D:\MY_PROJECTS\VisualStudio\My_Vector\My_Vector\my_vector.h(127,14): error C2039: "exception": не является членом "std".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\cstdlib(35): message : см. объявление "std"
+  Создание кода...

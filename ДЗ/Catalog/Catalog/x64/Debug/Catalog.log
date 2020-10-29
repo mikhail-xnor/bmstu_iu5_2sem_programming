@@ -1,0 +1,13 @@
+﻿  main.cpp
+d:\bmstu_studing\лабы\дз\catalog\catalog\class_list.h(120): warning C4522: iterator<ValueType>: заданы несколько операторов присваивания
+          with
+          [
+              ValueType=FileInfo
+          ]
+  d:\bmstu_studing\лабы\дз\catalog\catalog\main_functions.h(44): note: выполняется компиляция ссылки на экземпляр шаблон класс "iterator<ValueType>"
+          with
+          [
+              ValueType=FileInfo
+          ]
+d:\bmstu_studing\лабы\дз\catalog\catalog\main.cpp(38): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Catalog.vcxproj -> D:\bmstu_studing\Лабы\ДЗ\Catalog\x64\Debug\Catalog.exe

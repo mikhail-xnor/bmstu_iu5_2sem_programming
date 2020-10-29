@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\bmstu_studing\Лабы\ДЗ\Catalog\Catalog\methods_class_list.inl(86,14): error C2039: "exception": не является членом "std".
+D:\bmstu_studing\Лабы\ДЗ\Catalog\Catalog\predefined C++ types (compiler internal)(375): message : см. объявление "std"
+D:\bmstu_studing\Лабы\ДЗ\Catalog\Catalog\methods_class_list.inl(102,14): error C2039: "exception": не является членом "std".
+D:\bmstu_studing\Лабы\ДЗ\Catalog\Catalog\predefined C++ types (compiler internal)(375): message : см. объявление "std"
